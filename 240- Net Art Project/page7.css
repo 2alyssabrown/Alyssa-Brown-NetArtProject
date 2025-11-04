@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(163, 163, 255); 
+}
+
+.box {background-color: rgb(182, 182, 182);
+  
+        }
+
+.box {
+    height: 100px;
+    width: 10px;}
+
+h1 {background-color: black; color: white;}
+
+
+div {
+    background-color:rgb(182, 182, 182);
+    border: 15px solid #000000;
+    padding: 50px;
+    margin: 20px;
+    width: 50px; 
+}
+
+h3{background-color: rgb(182, 182, 182);}
